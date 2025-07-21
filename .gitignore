@@ -1,0 +1,12 @@
+# Don't push secrets or local files
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+staticfiles/
+# Don't push secrets or local files
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+staticfiles/
